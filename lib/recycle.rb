@@ -47,4 +47,5 @@ end
 def key_and_data(hash)
   hash.each do |key, value|
     puts "The #{key} is #{value}"
-    
+  end
+end
